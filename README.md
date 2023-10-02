@@ -13,7 +13,7 @@ pip install pygame
 This will install the pygame library.
 
 ## The game must look like this
-![Screenshot](https://github.com/LiviaBrandao/pong-game-py/blob/master/assets/gameScreenshot.png)
+<img alt="Background-Game" src="https://github.com/LiviaBrandao/pong-game-py/blob/master/assets/gameScreenshot.png">
 
 ## More about the logic behind
 
