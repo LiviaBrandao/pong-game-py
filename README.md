@@ -1,7 +1,5 @@
 # pong-game-py
 Pong Game developed using Python, embbeded systems class 2020.
-https://github.com/LiviaBrandao/pong-game-py/blob/master/assets/kitty.gif
-https://github.com/LiviaBrandao/LiviaBrandao/blob/master/assets/kitty.gif
 
 ## Running the Project
 Besides having Python installed, you need to execute the following command
